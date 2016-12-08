@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<playlists path="playlists/">
+	<lib m="hole" />
+	<lib m="koncepts" />
+	<lib m="no_hole" />
+	<lib m="othersFiles" />
+</playlists>

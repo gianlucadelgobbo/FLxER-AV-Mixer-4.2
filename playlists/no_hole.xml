@@ -1,0 +1,14 @@
+<lib>
+	<playlist name="no_hole" path="library/no_hole/">
+		<mov m="90min.swf" />
+		<mov m="cattivone.swf" />
+		<mov m="effect1.swf" />
+		<mov m="everest.swf" />
+		<mov m="japan_aereo.flv" />
+		<mov m="jemma_bn_4.swf" />
+		<mov m="scopio.swf" />
+		<mov m="slideshow.swf" />
+		<mov m="spot.swf" />
+		<mov m="sunquake1.swf" />
+	</playlist>
+</lib>

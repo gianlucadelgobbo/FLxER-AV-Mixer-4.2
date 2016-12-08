@@ -1,0 +1,11 @@
+<lib>
+	<playlist name="koncepts" path="library/koncepts/">
+		<mov m="contemporanea.txt" />
+		<mov m="elettropassion.txt" />
+		<mov m="fattiascoltare.txt" />
+		<mov m="feedback.txt" />
+		<mov m="lightconcept.txt" />
+		<mov m="puoi.txt" />
+		<mov m="sulfurea.txt" />
+	</playlist>
+</lib>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<plugin>
+	<!-- YOUR WIPES -->
+	<wipes path="plug-in/wipes/">
+		<mov m="stellar4.swf" />
+		<mov m="spiralona4.swf" />
+		<mov m="circular4.swf" />
+	</wipes>
+	<!-- YOUR DV-IN -->
+	<dv-in path="plug-in/dv_in/">
+		<mov m="x6.swf" />
+		<mov m="x4.swf" />
+		<mov m="800_25.swf" />
+		<mov m="800_15.swf" />
+		<mov m="720_25.swf" />
+		<mov m="720_15.swf" />
+		<mov m="640_15.swf" />
+		<mov m="400_15_kale.swf" />
+		<mov m="320_15.swf" />
+		<mov m="160_15.swf" />
+	</dv-in>
+	<!-- EFFECTS -->
+	<effects path="plug-in/effects/">
+		<mov m="rotate_ch4.swf" />
+		<mov m="blur.swf" />
+	</effects>
+	<!-- READER MODES -->
+	<readerModes path="plug-in/readerModes/">
+		<mov m="w_by_w.swf" />
+		<mov m="yugotxt.swf" />
+		<mov m="r_to_l.swf" />
+	</readerModes>
+</plugin>
